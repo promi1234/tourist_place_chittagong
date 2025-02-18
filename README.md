@@ -3,6 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
+![screenshot](assets/images/ss1.png)
+![screenshot](assets/images/ss2.png)
+![screenshot](assets/images/ss3.png)
 
 This project is a starting point for a Flutter application.
 
